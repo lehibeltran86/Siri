@@ -1,0 +1,25 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "siri app communication chatter type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehibeltran86/Siri.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "lehi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehibeltran86/Siri/issues"
+  },
+  "homepage": "https://github.com/lehibeltran86/Siri#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
